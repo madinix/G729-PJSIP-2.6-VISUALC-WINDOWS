@@ -8,7 +8,7 @@ This patch allows you to include G.729 in your pjsip 2.6 on windows, using Visua
 
 # HOW TO INTEGRATE G729 in your current VisualStudio pjproject 2.6:
 
-1. Unzip pjproject-2.6_G729.zip
+1. Unzip pjproject-2.6_G729-YYYYMMDD.zip (Currently is 20180410)
 
 2. Copy audio_codecs.c into your pjproject-2.6\pjmedia\src
 
